@@ -12,6 +12,10 @@ a:hover {
     text-decoration: none;
 }
 
+a:focus {
+    background-color: lightseagreen;
+}
+
 a:visited {
     color: darkblue;
 }
